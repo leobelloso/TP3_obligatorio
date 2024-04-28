@@ -1,0 +1,38 @@
+
+
+header {
+    margin: 0px;
+    padding: 0px;
+    background-color: #FFFFFF;
+}
+
+body {
+    margin: 35px;
+    background-color: #DCDDDF;
+    text-align: justify;
+    font-family: "times new roman", times, serif;
+    color: #000000;
+}
+
+h1 {
+    padding: 15px;
+    text-align: left;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+.cuerpo { /* Estilos para la clase "cuerpo" */
+    padding: 30px;
+    font-size: 22px;
+}
+
+/* Estilos para los enlaces */
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+   font-style: italic;
+    font-weight: bold;
+}
