@@ -6,6 +6,12 @@ header {
     background-color: #FFFFFF;
 }
 
+footer {
+    margin: 0px;
+    padding: 15px;
+    background-color: #FFFFFF;
+}
+
 body {
     margin: 35px;
     background-color: #DCDDDF;
@@ -21,9 +27,36 @@ h1 {
     text-transform: uppercase;
 }
 
+h2 {
+    padding: 25px;
+    text-align: left;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+h3 {
+    padding: 5px;
+    text-align: left;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+dt {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: 5px;
+}
+
+dd {
+    font-size: 15px;
+    font-family: serif;
+}
 .cuerpo { /* Estilos para la clase "cuerpo" */
     padding: 30px;
     font-size: 22px;
+    background-color: #FFFFFF;
+
 }
 
 /* Estilos para los enlaces */
