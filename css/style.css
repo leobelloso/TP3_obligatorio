@@ -66,6 +66,17 @@ img{
     margin-bottom: 50px; /*Márgen inferior más largo para separar el contenido siguiente*/
 }
 
+.iframe{
+    text-align: center;
+    margin-bottom: 50px; /*Márgen inferior más largo para separar el contenido siguiente*/
+}
+
+.formulario{
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom: 50px; /*Márgen inferior más largo para separar el contenido siguiente*/
+}
+
 /* Estilos para los enlaces */
 
 a:link {
