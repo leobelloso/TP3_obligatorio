@@ -42,21 +42,28 @@ h3 {
 }
 
 dt {
-    font-size: 20px;
     font-weight: bold;
     font-family: sans-serif;
     margin: 5px;
 }
 
 dd {
-    font-size: 15px;
+    font-size: 18px;
     font-family: serif;
 }
-.cuerpo { /* Estilos para la clase "cuerpo" */
+ /* Estilos para la clase "cuerpo" */
+.cuerpo {
     padding: 30px;
     font-size: 22px;
     background-color: #FFFFFF;
 
+}
+
+ /* Estilos para las imágenes */
+img{
+    margin: 3px; /*Separo imágenes entre sí*/
+    border-radius: 50px; /*Redondeo las esquinas*/
+    margin-bottom: 50px; /*Márgen inferior más largo para separar el contenido siguiente*/
 }
 
 /* Estilos para los enlaces */
