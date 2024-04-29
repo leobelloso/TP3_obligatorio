@@ -75,9 +75,18 @@ img{
     font-family: sans-serif;
     text-align: left;
     margin-bottom: 50px; /*Márgen inferior más largo para separar el contenido siguiente*/
+    background-color: #FFFFFF;
+    padding: 30px;
 }
 
 /* Estilos para los enlaces */
+
+.enlaces {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-right: 40px;
+}
 
 a:link {
     text-decoration: none;
